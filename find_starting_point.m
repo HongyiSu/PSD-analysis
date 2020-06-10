@@ -1,4 +1,3 @@
-%% Gen's code below
 % Map limits
 clear all; close all;
 n = input('Enter mode(1 or 2): '); %mode 1, 1-15Hz mode 2, 15-100Hz
@@ -93,8 +92,7 @@ for k = 0:47
         Tf.lon(i,:) = T2.longitude(want,:);
     
     end
-    
-%% Mike's code below
+
 
 switch n
     case 1

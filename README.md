@@ -2,7 +2,7 @@
 
 Final report for GOPH509 (Honor's program required), submitted to the Department of Geoscience, the University of Calgary
 
-A written report based on independent study. Originality is emphasized.
+A written report based on independent study. Originality is emphasized, and fieldwork has been carried out.
 
 Summary:
 

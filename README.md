@@ -2,11 +2,11 @@
 
 Final report for GOPH509 (Honor's program required), submitted to the Department of Geoscience, the University of Calgary
 
-A written report based on independent study. Originality is emphasized, laboratory and field studies are encouraged.
+A written report based on independent study. Originality is emphasized.
 
 Summary:
 
-1. Developed a MATLAB program to generate PSD maps for recorded 3 component seismic data in the Mount Meager area, BC, Canada
+1. Developed a MATLAB program to generate PSD maps for recorded 3 component seismic data (~650 GB) in the Mount Meager area, BC, Canada
 
 2. Identified the possible source of noise, that include fluid flow, helicopter, traffic on the road near the sites etc.
 
